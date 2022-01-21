@@ -1,0 +1,12 @@
+
+Hello world!
+Here is an example on how the text appears on screen
+@char GenericFemale
+Here a character appears
+@back testbg1
+Here the background changes
+@char Baker
+Here we add another character
+@back testbg2.dissolve
+Here we change the background again but with a different transition
+@stop
